@@ -1,0 +1,43 @@
+
+.container{
+    height: 750px;
+}
+
+.card{
+    width: 523px;
+}
+
+.card h1, p{
+    text-align: center;
+}
+
+#generate {
+    width: 350px;
+    height: 150px;
+    font-size: 25px;
+    margin: 50px;
+    align-items: center;
+}
+
+#printLikes{
+    height: 50px;
+    width: 80px;
+}
+
+#printDislikes {
+    height: 50px;
+    width: 80px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    width: 300px;
+}
+
+#table-like{
+    float: left;
+}
+
+#table-dislike{
+    float: right;
+}
